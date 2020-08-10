@@ -1,1 +1,3 @@
-# AlphabetSoup
+# Alphabet Soup Challenge
+
+For Alphabet Soup we were challenged to use machine learning to predict where they could make the best investments. For the challenge, I used a neural network model with two layers, the first with 12 and the second with 6 neurons. I chose this number of neurons as related to the number of input variables. I was not able to achieve the target model performance of 75%.  I reached only 53% accuracy after trying several different numbers of neurons and different activation methods.  If I were to perform this analysis again, I would try Random Forest Classifiers.  Random Forest is able to achieve good results on tabular data and handles outliers well.
